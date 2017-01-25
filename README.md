@@ -2,7 +2,6 @@
 
 <a href="https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html#//apple_ref/doc/uid/TP40014097-CH3-ID0">Оригинал на английском языке</a>
 
-Скачать книгу в формате pdf сейчас можно <a href="https://yadi.sk/d/7Fp9SBjcuUgsT">тут</a> (Версия Swift 2.2 - 3.0).
 
 ## Прочитать на сайте
 Перевод документации на русском языке вы можете прочитать на сайте <a href="http://swiftbook.ru/doc/about-swift">**SwiftBook.ru**</a>

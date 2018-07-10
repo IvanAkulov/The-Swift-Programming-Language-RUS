@@ -4,9 +4,9 @@
 
 
 ## Прочитать на сайте
-Перевод документации на русском языке вы можете прочитать на сайте <a href="http://swiftbook.ru/doc/about-swift">**SwiftBook.ru**</a>
+Перевод документации на русском языке вы можете прочитать на сайте <a href="https://swiftbook.ru/contents/doc/">**SwiftBook.ru**</a>
 
-<a href="http://swiftbook.ru/about">Немного о нас</a>
+<a href="https://swiftbook.ru/about-us/">Немного о нас</a>
 
 ## Перевод
 Перевод осуществлен <a href="https://github.com/IvanAkulov">https://github.com/IvanAkulov</a>.
@@ -17,7 +17,7 @@
 - предложить другой перевод терминов
  
 ## Текущая версия перевода
-Swift 3.0
+Swift 4.2
 
 ### Путеводитель по Swift
 
